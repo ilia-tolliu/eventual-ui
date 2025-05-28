@@ -1,6 +1,6 @@
 # Eventual UI update for an event-sourced system
 
-This is the example code to the LinkedIn article.
+This is the example code to the [LinkedIn article](https://www.linkedin.com/feed/update/urn:li:ugcPost:7333578021829820418/).
 
 The UI is built with Vite, React and TanStack Query library react-query.
 
