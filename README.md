@@ -2,6 +2,10 @@
 
 This is the example code to the LinkedIn article.
 
+The UI is built with Vite, React and TanStack Query library react-query.
+
+Provided approach is applicable to Vue, Angular, Solid and Svelte as well, since there are corresponding TanStack Query implementations. Chek it at the [official TanStack Query page](https://tanstack.com/query/latest).
+
 ## Getting started
 
 It is convenient to run backend and frontend in separate terminal tabs.
